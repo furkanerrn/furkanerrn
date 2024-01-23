@@ -1,12 +1,6 @@
-### Hi there 👋
+###Merhaba 👋
 
-<!--
-**furkanerrn/furkanerrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-- 🌱 Şu anda Swift öğreniyorum
+- 🌱 Şu anda Swift öğreniyorum. Bu yolculuk esnasında öğrendiklerimi burada paylaşacağım
 - 🤔 Daha önce C# ile geliştirmeler yaptım
 
 
